@@ -1,4 +1,4 @@
 hazelcast-lambdaj
 =================
 
-Use lambdaj syntax to execute distributed methods across the cluster
+Use lambdaj to execute distributed methods across the cluster
